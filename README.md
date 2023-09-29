@@ -1,6 +1,6 @@
 # OverclockedD2
 
-Hi, my name is OverclockedD2, I'm a software developer/engineer, competitive programmer, business owner and investor.
+Hi, my name is OverclockedD2, I'm a software developer/engineer, competitive programmer and investor.
 
 Big fan of fast cars 🚘
 
