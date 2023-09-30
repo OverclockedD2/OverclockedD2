@@ -1,4 +1,4 @@
-<h1><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=50&pause=&color=0045F7&center=true&repeat=false&width=512&height=64&lines=OverclockedD2" alt="OverclockedD1" /></h1>
+<h1><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=50&pause=&color=0045F7&center=true&Center=true&repeat=false&width=512&height=64&lines=OverclockedD2" alt="OverclockedD1" /></h1>
 
 <p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;7%2B%20years%20of%20experience%20with%20CPP%20CSharp%20and%20Python;Successful%20competitive%20programmer%20and%20investor&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=100&size=16" /></p>
 
