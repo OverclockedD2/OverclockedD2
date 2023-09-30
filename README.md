@@ -1,7 +1,5 @@
 <h1 align=center><img src="https://readme-typing-svg.demolab.com?font=Antos&size=50&pause=5000&color=0045F7&center=true&Center=true&repeat=true&width=512&height=128&lines=OverclockedD2" alt="OverclockedD1" /></h1>
 
-Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stack software engineer & developer with over 10 years of experience. I am a fan of complex languages and have mastered quite a few of them, including C, C++, C#, Assembly and Python. I gained a lot of coding experience in the past from my competitive programming career. I have won multiple medals from various coding contests and olympiads.Thanks to that, I am able to write extremely-fast and extremely-memory-efficient code and I am very good at solving problems. I am currently attempting to master OpenGL and have already used it with previous projects. 
-
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/overclockedd2?label=TOTAL STARS&style=for-the-badge&color=ffff00&labelColor=002045"/>
@@ -11,6 +9,7 @@ Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stac
   </a>
 </p>
 
+<p align=center>Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stack software engineer & developer with over 10 years of experience. I am a fan of complex languages and have mastered quite a few of them, including C, C++, C#, Assembly and Python. I gained a lot of coding experience in the past from my competitive programming career. I have won multiple medals from various coding contests and olympiads.Thanks to that, I am able to write extremely-fast and extremely-memory-efficient code and I am very good at solving problems. I am currently attempting to master OpenGL and have already used it with previous projects.</p>
 
 <br />
 <p align="center">
