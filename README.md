@@ -20,4 +20,10 @@
 </p>
 
 <h1></h1>
+<a href="https://github.com/OverclockedD2"><img alt="C_LANGUAGE" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="https://github.com/OverclockedD2"><img alt="CSHARP_LANGUAGE" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+<a href="https://github.com/OverclockedD2"><img alt="CPLUSPLUS_LANGUAGE" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="https://github.com/OverclockedD2"><img alt="PYTHON_LANGUAGE" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<h1></h1>
+
 <p align=center><a href="https://discordapp.com/692793862875512862" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a></p>
