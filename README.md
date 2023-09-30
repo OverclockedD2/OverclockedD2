@@ -15,7 +15,7 @@
 
 <br />
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=overclockedd2&theme=yeblu&show_icons=true&custom_title=OverclockedD2's Stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=overclockedd2&theme=yeblu&show_icons=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overclockedd2&theme=yeblu" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
