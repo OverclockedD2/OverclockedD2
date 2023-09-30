@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://images.cooltext.com/5674198.png"></h1>
-<font size="40"><P align="center">I'm a software engineer & developer, competitive programmer and investor</P></font>
+<font size="40"><P align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20&%20engineer%20and%20developer;The%20 languages%20I%20know%20-%20C++%20C#%20Python;7%2B%20years%20of%20experience%20in%20programming&font=Consolas%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a></P></font>
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
@@ -18,9 +19,6 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
 
-<font size="400"><P align="center">Portfolio</P></font>
+<font size="400"><P align="center">My Skills & Experience</P></font>
 
-<label class="switch">
-  <input type="checkbox">
-  <span class="slider round"></span>
-</label>
+
