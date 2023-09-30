@@ -1,4 +1,4 @@
-<img src="https://images.cooltext.com/5674196.png" alt="alternatetext">
+<img src="https://images.cooltext.com/5674198.png" alt="alternatetext">
 
 <h1 align="center">Hi, my name is <a style=color:blue>OverclockedD2<a></h1>
 <h3 align="center">I'm a software engineer & developer 💻, competitive programmer 🚀, investor 📈</h3>
