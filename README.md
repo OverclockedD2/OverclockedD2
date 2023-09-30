@@ -8,7 +8,6 @@
   <a href="https://github.com/overclockedd2?tab=followers">
     <img src="https://img.shields.io/github/followers/overclockedd2?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
   </a>
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.countapi.xyz/hit/overclockedd2&query=$.value&style=for-the-badge&label=Visitors&cacheSeconds=0&color=a2d2fb&labelColor=363e53"/>
 </p>
 
 
