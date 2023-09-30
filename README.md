@@ -1,6 +1,5 @@
 <h1 align=center><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=50&pause=5000&color=0045F7&center=true&Center=true&repeat=true&width=512&height=128&lines=OverclockedD2" alt="OverclockedD1" /></h1>
-
-<p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;7%2B%20years%20of%20experience%20with%20CPP%20CSharp%20and%20Python;Successful%20competitive%20programmer%20and%20investor&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=100&size=16" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Consolas&size=12&duration=1000&pause=1000&color=F7E513&center=true&vCenter=true&width=512&height=64&lines=Software+Engineer+%26+Developer;7%2B+Years+Of+Experience+With+C%2C+C%2B%2B%2C+C%23+and+Python;Competitive+Programmer;Investor" alt="Software Developer" />
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
