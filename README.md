@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://images.cooltext.com/5674204.png"></h1>
 
-<h1 align=center><img src="https://readme-typing-svg.demolab.com/?lines=OverclockedD2;OverclockedD2&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=100&size=50" /></h1>
+<h1 align=center><img src="https://readme-typing-svg.demolab.com/?lines=OverclockedD2;OverclockedD2&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=100000&size=50" /></h1>
 
-<p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;7%2B%20years%20of%20experience%20with%20CPP%20CSharp%20and%20Python;Successful%20competitive%20programmer%20and%20investor&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=1000&size=16" /></p>
+<p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;7%2B%20years%20of%20experience%20with%20CPP%20CSharp%20and%20Python;Successful%20competitive%20programmer%20and%20investor&font=Consolas&center=true&width=512&height=64&color=0088ff&vCenter=true&pause=100&size=16" /></p>
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
