@@ -21,6 +21,9 @@
 
 <details open> 
   <summary><font size="400"><P align="center">Software</P></font></summary>
+
+  <h3>Soft<h3/>
+    
   <p align=center>
     <a><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
     <a><img stc="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/></a>
