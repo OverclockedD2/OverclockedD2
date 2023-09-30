@@ -1,24 +1,18 @@
-# OverclockedD2
+<h1 align="center">Hi, my name is OverclockedD2</h1>
+<h3 align="center">I'm a software engineer & developer 💻, competitive programmer 🚀, investor 📈</h3>
 
-Hi, my name is OverclockedD2, I'm a software developer/engineer, competitive programmer and investor.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=overclockedd2&label=Profile%20views&color=0e75b6&style=flat" alt="overclockedd2" /> </p>
 
-Big fan of fast cars 🚘
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=overclockedd2" alt="overclockedd2" /></a> </p>
 
-Chess player ♟️
+- I am currently working on an OpenGL project [[PRIVATE]](github.com)
 
-Body builder 💪 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Rocket enthusiast 🚀
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=overclockedd2&show_icons=true&locale=en&layout=compact" alt="overclockedd2" /></p>
 
-## Programming Languages
-I have used C++ for competitive programming for years and have mastered a big part of the language. I can write very fast and little memory consuming code.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=overclockedd2&show_icons=true&locale=en" alt="overclockedd2" /></p>
 
-The language I started my programming career with is C#, I have used C# to create various desktop and console applications.
-
-I have spent a good amount of time learning Python and I have used it for multiple past projects. 
-
-
-### Contact
-[Email](mailto:overclockedd2@gmail.com)
-
-[Discord](https://discordapp.com/users/692793862875512862)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&" alt="overclockedd2" /></p>
