@@ -1,6 +1,5 @@
 <h1 align="center"><img src="https://images.cooltext.com/5674198.png"></h1>
-<font size="40"><P align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Software%20&%20engineer%20and%20developer;The%20 languages%20I%20know%20-%20C++%20C#%20Python;7%2B%20years%20of%20experience%20in%20programming&font=Consolas%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a></P></font>
+<img src="https://readme-typing-svg.demolab.com/?lines=Software%20&%20engineer%20and%20developer;The%20 languages%20I%20know%20-%20C++%20C#%20Python;7%2B%20years%20of%20experience%20in%20programming&font=Consolas%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=22" /></a>
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
