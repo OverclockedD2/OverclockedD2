@@ -20,4 +20,4 @@
 </p>
 
 <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
-<a href="mailto:overclockedD2@gmail.com" alt="Email" title="Email"><img width="32px" src="https://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png"/></a>
+<a href="mailto:overclockedD2@gmail.com" alt="Email" title="Email"><img width="32px" src="https://www.svgrepo.com/show/431106/mail-open.svg"/></a>
