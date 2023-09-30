@@ -19,4 +19,4 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
 
-<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
