@@ -18,3 +18,5 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overclockedd2&theme=yeblu" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
+
+<a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
