@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/781544858929987645/1157570886992396379/image-removebg-preview_1.png?ex=65191766&is=6517c5e6&hm=4f0119de8afe6609b230866d1e887745febc65a032644b4a9190d3f66a2eed4d&" alt="alternatetext">
+<img src="https://images.cooltext.com/5674196.png" alt="alternatetext">
 
 <h1 align="center">Hi, my name is <a style=color:blue>OverclockedD2<a></h1>
 <h3 align="center">I'm a software engineer & developer 💻, competitive programmer 🚀, investor 📈</h3>
