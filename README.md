@@ -1,4 +1,6 @@
-```<h1 align="center">Hi, my name is <a style=color:blue>OverclockedD2<a></h1>```
+<img src="https://cdn.discordapp.com/attachments/781544858929987645/1157570288058372116/image-removebg-preview.png?ex=651916d7&is=6517c557&hm=0a620b5e106189a352ccd77967430e16f3404db271848b7e04bf7888bcf1de62&" alt="alternatetext">
+
+<h1 align="center">Hi, my name is <a style=color:blue>OverclockedD2<a></h1>
 <h3 align="center">I'm a software engineer & developer 💻, competitive programmer 🚀, investor 📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overclockedd2&label=Profile%20views&color=0e75b6&style=flat" alt="overclockedd2" /> </p>
