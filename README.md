@@ -19,4 +19,5 @@
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
 
-<p align=right><a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a></p><p align=left><a href="mailto:overclockedD2@gmail.com" alt="Email" title="Email"><img width="32px" src="https://www.svgrepo.com/show/431106/mail-open.svg"/></a></p>
+<h1></h1>
+<p align=center><a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a></p>
