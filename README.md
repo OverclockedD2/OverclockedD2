@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is OverclockedD2</h1>
+<code><h1 align="center">&lt;Hi, my name is OverclockedD2&gt;</h1></code>
 <h3 align="center">I'm a software engineer & developer 💻, competitive programmer 🚀, investor 📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overclockedd2&label=Profile%20views&color=0e75b6&style=flat" alt="overclockedd2" /> </p>
