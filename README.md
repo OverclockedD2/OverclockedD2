@@ -1,5 +1,7 @@
+<html>
+<head>
+<style>
 @import url("https://fonts.googleapis.com/css2?family=Inconsolata&display=swap");
-
 svg {
 	font-family: "Inconsolata", sans-serif;
 	width: 100%; height: 100%;
@@ -24,7 +26,10 @@ svg text {
 }
 
 .wrapper {background-color: #4D83FF};
-
+</style>
+</head>
+<body>
+	
 <div class="wrapper">
 	<svg>
 		<text x="50%" y="50%" dy=".35em" text-anchor="middle">
