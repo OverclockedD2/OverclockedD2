@@ -5,8 +5,6 @@
     <img alt="Stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/OverclockedD2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/OverclockedD2?tab=followers">
     <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/OverclockedD2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/OverclockedD2">
-    <img alt="Views" title="Views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
 <p align=center>Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stack software engineer & developer with over 10 years of experience. I am a fan of complex languages and have mastered quite a few of them, including C, C++, C#, Assembly and Python. I gained a lot of coding experience in the past from my competitive programming career. I have won multiple medals from various coding contests and olympiads.Thanks to that, I am able to write extremely-fast and extremely-memory-efficient code and I am very good at solving problems. I am currently attempting to master OpenGL and have already used it with previous projects.</p>
