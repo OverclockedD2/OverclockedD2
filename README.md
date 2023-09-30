@@ -17,3 +17,6 @@
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overclockedd2&theme=yeblu" />
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=overclockedd2&theme=yeblu"/>
 </p>
+
+<font size="100"><P align="center">My Skills</P></font>
+
