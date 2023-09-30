@@ -13,9 +13,9 @@
 
 <br />
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=BGP0&theme=tokyonight&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=overclockedd2&theme=yeblu&show_icons=true" />
     
-  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BGP0&theme=tokyonight" />
+  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overclockedd2&theme=yeblu" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=overclockedd2&label=Profile%20views&color=0e75b6&style=flat" alt="overclockedd2" /> </p>
