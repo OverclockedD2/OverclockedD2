@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/overclockedd2?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
+    <img src="https://img.shields.io/github/stars/overclockedd2?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=0088ff"/>
   </a>
   <a href="https://github.com/overclockedd2?tab=followers">
-    <img src="https://img.shields.io/github/followers/overclockedd2?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
+    <img src="https://img.shields.io/github/followers/overclockedd2?style=for-the-badge&color=7ce38b&labelColor=0088ff"/>
   </a>
 </p>
 
