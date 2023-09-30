@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://images.cooltext.com/5674198.png"></h1>
 
-<p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;CPP%20CSHARP%20PYTHON;7%2B%20years%20of%20programming%20experience;Competitive%20programmer&font=Consolas&center=true&width=440&height=45&color=0088ff&vCenter=true&pause=100&size=22" /></p>
+<p align=center><img src="https://readme-typing-svg.demolab.com/?lines=Software%20engineer%20and%20developer;7%2B%20years%20of%20experience%20with %CPP%20CSharp%20and%Python;Successful%20competitive%20programmer%20and%investor&font=Consolas&center=true&width=440&height=45&color=0088ff&vCenter=true&pause=100&size=22" /></p>
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
