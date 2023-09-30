@@ -1,6 +1,6 @@
 <h1 align=center><img src="https://readme-typing-svg.demolab.com?font=Antos&size=50&pause=5000&color=0045F7&center=true&Center=true&repeat=true&width=512&height=128&lines=OverclockedD2" alt="OverclockedD1" /></h1>
 
-<h3 align=center><img src="https://readme-typing-svg.demolab.com?font=Consolas&size=20&duration=5000&pause=1000&color=F7E513&center=true&vCenter=true&width=1028&height=64&lines=Software+Engineer+%26+Developer;7%2B+Years+Of+Experience+With+C%2C+C%2B%2B%2C+C%23+and+Python;Competitive+Programmer;Full-Stack+Developer" alt="Software Developer"/></h3>
+Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stack software engineer & developer with over 10 years of experience. I am a fan of complex languages and have mastered quite a few of them, including C, C++, C#, Assembly and Python. I gained a lot of coding experience in the past from my competitive programming career. I have won multiple medals from various coding contests and olympiads.Thanks to that, I am able to write extremely-fast and extremely-memory-efficient code and I am very good at solving problems. I am currently attempting to master OpenGL and have already used it with previous projects. 
 
 <p align="center">
   <a href="https://github.com/overclockedd2?tab=repositories&sort=stargazers">
