@@ -7,7 +7,7 @@
     <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/OverclockedD2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align=center>Hi! My name is Overclocked, welcome to my fresh GitHub profile, I am a full-stack software engineer & developer with over 10 years of experience. I am a fan of complex languages and have mastered quite a few of them, including C, C++, C#, Assembly and Python. I gained a lot of coding experience in the past from my competitive programming career. I have won multiple medals from various coding contests and olympiads. Thanks to that, I am able to write extremely-fast and extremely-memory-efficient code and I am very good at solving problems. I am currently attempting to master OpenGL and have already used it with previous projects.</p>
+<p align=center> Hi! My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. Proficient in languages like C++, C#, Assembly, and Python, my journey has been enriched by victories in coding contests and Olympiads, earning me a collection of medals. Drawing from my competitive coding background, I specialize in crafting code that's not just faster than light but also incredibly memory-efficient. Beyond coding, I'm captivated by the intricacies of technical analysis and the world of trading and investing. My current exploration involves experimenting with automated trading bots. And when I am not busy with neither of those things, you can probably find me at the nearest racing track or garage. </p>
 
 <br />
 <p align="center">
