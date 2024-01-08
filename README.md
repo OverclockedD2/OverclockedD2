@@ -72,10 +72,6 @@
 <a href="https://github.com/OverclockedD2"><img alt="CMD" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a>
 <a href="https://github.com/OverclockedD2"><img alt="POWERSHELL" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
 <a href="https://github.com/OverclockedD2"><img alt="VIRTUALBOX" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
-<a href="https://github.com/OverclockedD2"><img alt="CHROME" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
-<a href="https://github.com/OverclockedD2"><img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a href="https://github.com/OverclockedD2"><img alt="LENOVO" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></a>
-<a href="https://github.com/OverclockedD2"><img alt="RYZEN" src="https://img.shields.io/badge/AMD%20Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 <h1></h1>
 
 <p align=center><a href="https://discordapp.com/692793862875512862" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a></p>
