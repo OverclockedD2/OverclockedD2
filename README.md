@@ -1,4 +1,4 @@
-<h1 align=center><img src="https://readme-typing-svg.demolab.com?font=Antos&size=50&pause=5000&color=0045F7&center=true&Center=true&repeat=true&width=512&height=128&lines=OverclockedD2" alt="OverclockedD1" /></h1>
+<h1 align=center><img src="https://readme-typing-svg.demolab.com?font=Antos&size=50&pause=5000&color=0045F7&center=true&Center=true&repeat=true&width=512&height=128&lines=OverclockedD2" alt="OverclockedD2" /></h1>
 
 <p align="center">
   <a href="https://github.com/OverclockedD2?tab=repositories&sort=stargazers">
@@ -7,7 +7,7 @@
     <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/OverclockedD2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align=center> Hi!   My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. Proficient in languages like C++, C#, Assembly, and Python. I specialize in crafting code that's not just faster than light but also incredibly memory-efficient. Beyond coding, I'm captivated by the intricacies of technical analysis and the world of trading and investing. </p>
+<p align=center> Hi! My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. Proficient in languages like C++, C#, Assembly, and Python. I specialize in crafting code that's not just faster than light but also incredibly memory-efficient. Beyond coding, I'm captivated by the intricacies of technical analysis and the world of trading and investing. </p>
 
 <br />
 <p align="center">
