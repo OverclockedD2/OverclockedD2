@@ -53,6 +53,6 @@
 <a href="https://github.com/OverclockedD2"><img alt="VIRTUALBOX" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a>
 <h1></h1>
 
-<p float="center">
+<p align="center">
   <a href="https://discordapp.com/692793862875512862" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
 </p>
