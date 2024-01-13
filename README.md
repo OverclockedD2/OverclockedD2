@@ -55,5 +55,5 @@
 
 <p float="center">
   <a href="https://discordapp.com/692793862875512862" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
-  <a href="mailto:overclockedd2@gmail.com?subject=Very%20Important%20Question&body=Hello%20OverclockedD2!%0D%0A%0D%0AI%20have%20a%20very%20important%20question%20I%20need%20to%20ask%20you.%20I%20hope%20you%20get%20this%20email!%0D%0A%0D%0ARespectfully%2C%0D%0ASomeone" alt="Gmail" title="Gmail"><img width="16px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/></a>
+  [//]: #<a href="mailto:overclockedd2@gmail.com?subject=Very%20Important%20Question&body=Hello%20OverclockedD2!%0D%0A%0D%0AI%20have%20a%20very%20important%20question%20I%20need%20to%20ask%20you.%20I%20hope%20you%20get%20this%20email!%0D%0A%0D%0ARespectfully%2C%0D%0ASomeone" alt="Gmail" title="Gmail"><img width="16px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png"/></a>
 </p>
