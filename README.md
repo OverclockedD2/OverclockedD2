@@ -74,5 +74,5 @@
 <h1></h1>
 
 <p align="center">
-  <a href="https://discordapp.com/user/692793862875512862" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
+  <a href="data:text/plain;utf-8,overclockedd2" alt="Discord" title="Discord"><img width="32px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png"/></a>
 </p>
