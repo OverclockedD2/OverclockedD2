@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/OverclockedD2?tab=repositories&sort=stargazers">
-    <img alt="Stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/overclockedd2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="Stars" title="Stars" src="https://custom-icon-badges.demolab.com/github/stars/OverclockedD2?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/OverclockedD2?tab=followers">
-    <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/overclockedd2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/OverclockedD2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 <p align=center> Hi! My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. I'm proficient in the C++, C# and Python programming languages (and a bit of Java and Assembly). I specialize in crafting code that's not just fast, but also incredibly memory-efficient. I got quite a bit of experience with cryptography, computer graphics, algorithmic problem solving and network related stuff. Most of my free time I either spend in the gym or hanging out with friends.</p>
