@@ -7,12 +7,12 @@
     <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/overclockedd2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align=center> Hi! My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. Proficient in languages like:  C++, C#, Python (and a couple more). I specialize in crafting code that's not just faster than light but also incredibly memory-efficient. I have spent too much time studying computer graphics - all sorts of optimizations, rendering techniques, engines - at this point you can also call me old friends with the graphics card, especially NVIDIA ones. Beyond coding, I'm captivated by the intricacies of technical analysis and the world of trading and investing.</p>
+<p align=center> Hi! My name is Overclocked, a full-stack developer with a decade's worth of expertize under my belt. I'm proficient in the C++, C# and Python programming languages (and a bit of Java and Assembly). I specialize in crafting code that's not just fast, but also incredibly memory-efficient. I got quite a bit of experience with cryptography, computer graphics, algorithmic problem solving and network related stuff. Most of my free time I either spend in the gym or hanging out with friends.</p>
 
 <br/><br/>
 
 > [!important]
-> ### ❝ Every spark won't start a fire, but every fire started from a spark. ❞
+> ### ❝ Motivation gets you going, but dicipline keeps you growing. ❞
 
 <br/><br/>
 
