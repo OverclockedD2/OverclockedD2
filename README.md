@@ -7,8 +7,6 @@
     <img alt="Follows" title="Follows" src="https://custom-icon-badges.demolab.com/github/followers/OverclockedD2?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<p align=center> C++, Python, C# </p>
-
 <br/><br/>
 
 > [!important]
