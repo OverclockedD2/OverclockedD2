@@ -10,7 +10,7 @@
 <br/><br/>
 
 > [!important]
-> ### ❝ Motivation gets you going, but dicipline keeps you growing. ❞
+> ### ❝ Motivation gets you going, but dicipline keeps you growing.  ❞
 
 <br/><br/>
 
